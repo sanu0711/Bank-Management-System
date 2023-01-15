@@ -2,9 +2,9 @@ body{
     text-align: center;
 }
 hr.dot {
-    border: dotted #bb8a2f 6px;
+    border: dotted #bb8a2f 5px;
     border-bottom: none;
-    width: 40%;
+    width: 5%;
     margin: 50px auto;
   }
 .top{
